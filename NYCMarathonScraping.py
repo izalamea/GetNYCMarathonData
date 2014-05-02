@@ -8,7 +8,7 @@
 #          (anything from 1970 to 2011)
 #
 # Line 18: Enter the name of the directory where the marathon data will
-#         be saved
+#         be saved. Please create this directory before running the script
 
 import requests
 import re
